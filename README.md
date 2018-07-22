@@ -5,6 +5,8 @@
 * 创建只读集合
 * 反序列化过滤器
 * 不可变集合
+* Process API
+* @Deprecated 功能增强
 
 ## 联系作者
 * 如有Bug和建议邮箱至 :love_letter:  `iphonewang@foxmail.com`
