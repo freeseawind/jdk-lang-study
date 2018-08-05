@@ -7,6 +7,7 @@
 * 不可变集合
 * Process API
 * @Deprecated 功能增强
+* 方法引用
 
 ## 联系作者
 * 如有Bug和建议邮箱至 :love_letter:  `iphonewang@foxmail.com`
