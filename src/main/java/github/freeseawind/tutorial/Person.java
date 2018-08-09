@@ -11,6 +11,7 @@ public class Person
     }
 
     String name;
+    int age;
     LocalDate birthday;
     Sex gender;
     String emailAddress;
@@ -59,4 +60,15 @@ public class Person
     {
         return false;
     }
+
+    public int getAge()
+    {
+        return age;
+    }
+
+    public void setAge(int age)
+    {
+        this.age = age;
+    }
+
 }
